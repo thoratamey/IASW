@@ -1,0 +1,6 @@
+{
+  "name": "IASW: Intelligent Account Servicing Workflow",
+  "description": "An agentic AI application for automating banking account change requests with human-in-the-loop verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
